@@ -6,7 +6,7 @@ A PHP library for converting HTML to formatted plain text.
 
 ## Basic Usage
 ```php
-$html = new \mtibben\Html2Text('Hello, &quot;<b>world</b>&quot;');
+$html = new \mtibben\Html2Text\Html2Text('Hello, &quot;<b>world</b>&quot;');
 
 echo $html->getText();  // Hello, "WORLD"
 ```

@@ -17,7 +17,7 @@
  * GNU General Public License for more details.
  */
 
-namespace mtibben;
+namespace mtibben\Html2Text;
 
 class Html2Text
 {

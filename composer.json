@@ -4,7 +4,7 @@
     "type": "library",
     "license": "GPLv2",
     "autoload": {
-        "psr-4": { "mtibben\\": ["src/", "test/"] }
+        "psr-4": { "mtibben\\Html2Text\\": ["src/", "test/"] }
     },
     "require-dev": {
         "phpunit/phpunit": "~4"

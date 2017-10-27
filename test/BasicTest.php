@@ -1,6 +1,6 @@
 <?php
 
-namespace mtibben;
+namespace mtibben\Html2Text;
 
 class BasicTest extends \PHPUnit_Framework_TestCase
 {
