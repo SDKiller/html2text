@@ -1,6 +1,6 @@
 <?php
 
-namespace Html2Text;
+namespace mtibben;
 
 class ImageTest extends \PHPUnit_Framework_TestCase
 {

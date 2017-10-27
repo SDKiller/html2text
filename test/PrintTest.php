@@ -1,6 +1,6 @@
 <?php
 
-namespace Html2Text;
+namespace mtibben;
 
 class PrintTest extends \PHPUnit_Framework_TestCase
 {
@@ -9,7 +9,7 @@ class PrintTest extends \PHPUnit_Framework_TestCase
 
 	public function setUp() {
         $this->html = new Html2Text(self::TEST_HTML);
-        $this->expectOutputString(self::EXPECTED);		
+        $this->expectOutputString(self::EXPECTED);
 	}
 
     public function testP()
